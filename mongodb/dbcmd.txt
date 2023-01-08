@@ -1,0 +1,4 @@
+use ecom
+db.products.insertOne({name:'m401',brand:'new',price:'399'})
+db.products.updateOne((name:'m403'),{$set:{price:'404'}})
+db.products.deleteOne({name:'m401'})
