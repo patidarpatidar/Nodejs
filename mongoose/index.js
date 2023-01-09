@@ -46,4 +46,4 @@ const findInDB = async()=>{
 // main()
 // updateInDB();
 // deleteInDB()
-findInDB()
+// findInDB()
