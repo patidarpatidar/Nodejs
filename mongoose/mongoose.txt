@@ -1,0 +1,7 @@
+mongoose is provide advance features in mongodb 
+we create schema in mongoose apply validation
+
+
+schema --> validate database filde
+
+models --> coonect nodejs and mongodb using this schema
